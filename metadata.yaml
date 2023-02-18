@@ -1,0 +1,27 @@
+_repo: Des-paquebots-transatlantiques-b-BrestLe-HavreCherbourgMarseilleParisNantesBordeaux_70042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hir, Jean Louis le
+    gutenberg_agent_id: '55558'
+    url: http://www.gutenberg.org/2009/agents/55558
+description: ''
+gutenberg_issued: '2023-02-14'
+identifiers:
+  gutenberg: '70042'
+language: fr
+pgterms:marc904: https://archive.org/details/bub_gb_t-2gXDLepRcC/page/n1/mode/2up
+pgterms:marc905: 20060507084718lehir
+pgterms:marc906: '1857'
+pgterms:marc907: FR
+production_note: Charlene Taylor, Adrian Mastronardi, Claudine Corbasson and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This book was produced from
+  scanned images of public domain material from the Google Books project.)
+publication_note: '  $aFrance :$bBureau des Annales du droit commercial, $c1857.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Des paquebots transatlantiques : $b Brest.—Le Havre.—Cherbourg.—Marseille.—Paris.—Nantes.—Bordeaux.'
+url: http://www.gutenberg.org/ebooks/70042
