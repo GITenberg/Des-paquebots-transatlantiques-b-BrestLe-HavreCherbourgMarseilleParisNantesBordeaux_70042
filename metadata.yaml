@@ -1,11 +1,16 @@
 _repo: Des-paquebots-transatlantiques-b-BrestLe-HavreCherbourgMarseilleParisNantesBordeaux_70042
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70042-h/images/cover.jpg
 creator:
   author:
     agent_name: Hir, Jean Louis le
     gutenberg_agent_id: '55558'
     url: http://www.gutenberg.org/2009/agents/55558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70042#Des-paquebots-transatlantiques-b-BrestLe-HavreCherbourgMarseilleParisNantesBordeaux
 gutenberg_issued: '2023-02-14'
 identifiers:
   gutenberg: '70042'
